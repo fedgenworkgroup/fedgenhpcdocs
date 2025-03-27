@@ -27,7 +27,7 @@ To begin using the cluster, you need to be aware of the following;
     scp, rsync, or similar programs. On Windows, you may use
     WinSCP. 
 
-    see :doc:`Transferring files to/from FEDGEN HPC Cluster <../others/Transferring%20files%20to%20and%20from%20the%20clusters.rst>`_
+    see :doc: `Transferring files to/from FEDGEN HPC Cluster' /docs/source/others/Transferring%20files%20to%20and%20from%20the%20clusters.rst
 
 
 6.  Optionally, if you wish to use programs with a **graphical user
