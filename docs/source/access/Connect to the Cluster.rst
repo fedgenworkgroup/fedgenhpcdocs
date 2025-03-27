@@ -29,6 +29,7 @@ To begin using the cluster, you need to be aware of the following;
 
     see `Transferring files to/from FEDGEN HPC Cluster <https://fedgenhpc.readthedocs.io/en/latest/others/Transferring%20files%20to%20and%20from%20the%20clusters.html>`_
 
+see :ref: `Transferring files to/from FEDGEN HPC Cluster` <../others/Transferring%20files%20to%20and%20from%20the%20clusters.rst>
 
 6.  Optionally, if you wish to use programs with a **graphical user
     interface (GUI)**, you will need an X-server on your client system and log
